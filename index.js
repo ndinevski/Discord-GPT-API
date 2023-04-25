@@ -13,7 +13,7 @@ const client = new Client({
 client.on('ready', () => {
     console.log('DOBRO UTRO!!!');
 });
-
+//testing
 const configuration = new Configuration({
     apiKey: process.env.API_KEY,
 });
