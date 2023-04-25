@@ -1,7 +1,7 @@
 require('dotenv/config');
 const { Client, IntentsBitField } = require('discord.js');
 const { Configuration, OpenAIApi } = require('openai');
-//hiiii
+//hiiiiss
 const client = new Client({
     intents: [
         IntentsBitField.Flags.Guilds,
